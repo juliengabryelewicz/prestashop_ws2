@@ -1,0 +1,23 @@
+{
+  "name": "prestashop_ws2",
+  "version": "0.1.0",
+  "description": "Node module which allows you to communicate with PrestaShop (1.6 & 1.7) via webservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/api/general.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliengabryelewicz/prestashop_ws2"
+  },
+  "author": "Julien Gabryelewicz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^8.3.2"
+  }
+}

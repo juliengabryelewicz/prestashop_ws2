@@ -1,6 +1,6 @@
 {
   "name": "prestashop_ws2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node module which allows you to communicate with PrestaShop (1.6 & 1.7) via webservices",
   "main": "index.js",
   "scripts": {

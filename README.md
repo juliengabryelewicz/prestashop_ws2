@@ -12,7 +12,7 @@ You'll need to add configuration in your .env file :
 
 ```
 PRESTASHOP_WS_KEY="YOUR_WEBSERVICE_KEY"
-PRESTASHOP_BASE_URL="https://your_url.com/api" (do not forget /api on the link)
+PRESTASHOP_API_URL="https://your_url.com/api" (do not forget /api on the link)
 PRESTASHOP_OUTPUT_FORMAT="XML" (you can use XML or JSON for your result format)
 ```
 
